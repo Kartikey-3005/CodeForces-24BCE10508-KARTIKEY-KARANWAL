@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 8 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (2)
 - [strings](#strings) (1)
 
@@ -48,6 +48,7 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 
 ### math
