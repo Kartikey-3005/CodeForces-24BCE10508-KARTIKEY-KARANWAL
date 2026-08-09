@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 6 |
+| 9 | 7 |
 
 ---
 
@@ -14,10 +14,11 @@
 
 - [brute force](#brute-force) (2)
 - [dp](#dp) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (4)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (2)
-- [strings](#strings) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -40,6 +41,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 
 ### implementation
@@ -50,6 +52,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ### math
 
@@ -58,11 +61,18 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ---
 
