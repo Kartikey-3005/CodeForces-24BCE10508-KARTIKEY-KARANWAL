@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 8 |
+| 14 | 8 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [dp](#dp) (1)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (8)
-- [math](#math) (3)
+- [math](#math) (4)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
 
@@ -73,6 +73,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 
 ### sortings
 
