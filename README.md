@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 12 |
+| 30 | 12 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (21)
+- [implementation](#implementation) (22)
 - [math](#math) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -99,6 +99,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/705/A%20-%20Hulk/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
