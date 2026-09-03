@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 12 |
+| 29 | 12 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (20)
+- [implementation](#implementation) (21)
 - [math](#math) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -87,6 +87,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/116/A%20-%20Tram/solution.java) |
+| 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/136/A%20-%20Presents/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Kartikey-3005/CodeForces-24BCE10508-KARTIKEY-KARANWAL/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
